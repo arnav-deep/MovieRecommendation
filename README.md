@@ -17,14 +17,14 @@ Note: The CSV method is computationaly very heavy, so that's not recommended unl
 Video showing how this method works can be found [here](https://drive.google.com/open?id=1zKI9-WiZsM4FT4043dBx4PGDZ4NXI4As).
 
 The python script, [get_rec.py](https://github.com/arnav-deep/MovieRecommendation/blob/master/get_rec.py) has been written to get recommendations. It can be run and tested by giving movie tiltes present in the dataset as input.<br>
-Note: You can get the movies present in the dataset from [movie_titles.txt](https://github.com/arnav-deep/MovieRecommendation/blob/master/movie_titles.txt) or you can run simply run [get_rec.py](https://github.com/arnav-deep/RecommendationLDA/blob/master/movie_rec/get_rec.py) and the terminal will help you get the movie titles.
+Note: You can get the movies present in the dataset from [movie_titles.txt](https://github.com/arnav-deep/MovieRecommendation/blob/master/movie_titles.txt) or you can run simply run [get_rec.py](https://github.com/arnav-deep/MovieRecommendation/blob/master/get_rec.py) and the terminal will help you get the movie titles.
 ```python
 python get_rec.py
 ```
 Instructions to use the script can be found in the terminal when script is run.
 
 ## B. Save it to CSV
-Model takes words as input. Each word of an input data must be fed. The code can be found in [movie_rec_csv.py](https://github.com/arnav-deep/MovieRecommendation/blob/maste/movie_rec_csv.py). This outputs a CSV with movie title and its top 50 recommendations in order.<br>
+Model takes words as input. Each word of an input data must be fed. The code can be found in [movie_rec_csv.py](https://github.com/arnav-deep/MovieRecommendation/blob/master/movie_rec_csv.py). This outputs a CSV with movie title and its top 50 recommendations in order.<br>
 Note: Dataset must be downloaded before running this script. The output CSV after running this script for i=100 movies is already stored in [movie_recommendation.csv](https://github.com/arnav-deep/MovieRecommendation/blob/master/movie_recommendation.csv).
 
 # What more can be done
