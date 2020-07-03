@@ -1,4 +1,4 @@
-For information on how to create the model, refer my other repository "[English Topic Model]{https://github.com/arnav-deep/EnglishTopicModel}".
+For information on how to create the model, refer my other repository "[English Topic Model](https://github.com/arnav-deep/EnglishTopicModel)".
 
 # Dataset
 The dataset used is taken from Kaggle and can be found [here](https://www.kaggle.com/jrobischon/wikipedia-movie-plots).
