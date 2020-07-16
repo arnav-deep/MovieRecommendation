@@ -34,3 +34,8 @@ The procedure will be very simple and the steps to be followed will be the same 
 2. A movie plot in the form of a string can be input in get_rec.py and the model can be run on it to get recommendations from the data.<br>
 
 3. A website can be based using this model, but using the CSV method will be better and give fast results.
+
+## License
+GNU GENERAL PUBLIC LICENSE Version 2
+
+Arnav Deep © June 2020. All rights reserved.
